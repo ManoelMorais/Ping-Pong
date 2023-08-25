@@ -1,5 +1,3 @@
-const { Html } = require("next/document")
-
 //pegar o elemento
 const canvasEl = document.getElementById("canvas"),
 canvasCtx = canvasEl.getContext("2d")
